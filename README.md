@@ -23,14 +23,14 @@
 ## 5. 시스템 설명
 ![UIUX2](https://user-images.githubusercontent.com/59796919/78773146-bfb83b00-79cd-11ea-9ded-2c79ee123f78.png)
 
+-가장 먼저 프로그램을 실행하면 보이는 화면
 
-*가장 먼저 프로그램을 실행하면 보이는 화면*
 
 ![UIUX3](https://user-images.githubusercontent.com/59796919/78773021-95667d80-79cd-11ea-8ec2-90b59665026d.png)
 
-*도마에 각 재료들을 마우스 드래그하여 가져온다.*
+-도마에 각 재료들을 마우스 드래그하여 가져온다.
+
 
 ![UIUX](https://user-images.githubusercontent.com/59796919/78773102-ae6f2e80-79cd-11ea-97af-b0c3aafd1966.png)
 
-
-*다 만들어진 샌드위치를 키보드 오른쪽 버튼을 눌러 옆으로 보내면 나 자신이 나타나는 형태*
+-다 만들어진 샌드위치를 키보드 오른쪽 버튼을 눌러 옆으로 보내면 나 자신이 나타나는 형태
